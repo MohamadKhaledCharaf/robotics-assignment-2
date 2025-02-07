@@ -1,12 +1,13 @@
-you can use touch to create multiple files at Once such as: touch file1.txt file2.txt file3.txt
-you can also update file timestamps without modifying Contenct by running filename.txt
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+1:you can use touch to create multiple files at Once such as: touch file1.txt file2.txt file3.txt
+2:you can also update file timestamps without modifying Contenct by running filename.txt
+3: Regardles on whether this file is named for Touch, head lists first 10 lines of a file
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+11:
+12:
+13: Right Tail lists the last ten lines of the file
