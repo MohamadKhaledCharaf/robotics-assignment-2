@@ -1,0 +1,1 @@
+3: Regardles on whether this file is named for Touch, head lists first 10 lines of a file
