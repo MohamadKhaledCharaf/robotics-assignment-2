@@ -1,0 +1,2 @@
+you can use touch to create multiple files at Once such as: touch file1.txt file2.txt file3.txt
+you can also update file timestamps without modifying Contenct by running filename.txt

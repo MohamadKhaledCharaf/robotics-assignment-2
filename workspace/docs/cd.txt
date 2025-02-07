@@ -1,0 +1,2 @@
+The cd command in Linux is used to change the current directory
+to a specified directory
