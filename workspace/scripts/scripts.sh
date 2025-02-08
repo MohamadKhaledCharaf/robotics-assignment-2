@@ -91,7 +91,7 @@ cat >> "$DOCS_DIR/SummaryTouch.txt" <<EOF
 13: Right Tail lists the last ten lines of the file
 EOF
 # Query the functionality of head from SummaryTouch.txt
-cat SummaryTouch.txt | grep head | cat > "$LOGS_DIR/search_results.txt"
+cat "$DOCS_DIR/SummaryTouch.txt" | grep head | cat > "$LOGS_DIR/search_results.txt"
 # Create SummaryForOnlyTouch.txt by taking the first two lines of SummaryTouch.txt
 echo "Creating SummaryForOnlyTouch.txt..."
 head -n 2 "$DOCS_DIR/SummaryTouch.txt" > "$DOCS_DIR/SummaryForOnlyTouch.txt"
