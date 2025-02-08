@@ -1,0 +1,1000 @@
+  193  make
+  194  ./axpb
+  195  make
+  196  ./axpb
+  197  make
+  198  ./axpb
+  199  ./axpb 100
+  200  cd DE
+  201  cd Desktop/
+  202  cd AUB/
+  203  dir
+  204  cd CMPS\ 224/
+  205  dir
+  206  cd Assignment\ 1/
+  207  dor
+  208  dir
+  209  make 71
+  210  make
+  211  cd ..
+  212  dir
+  213  cd Assignment\ 1/
+  214  dkr
+  215  dir
+  216  make
+  217  ,ale
+  218  make
+  219  Makefile
+  220  make
+  221  cd ..
+  222  dir
+  223  code Assignment\ 1/
+  224  dir
+  225  cd Assignment\ 1/
+  226  make
+  227  ./axpb
+  228  ./axpb 71
+  229  ./axpb 513
+  230  ./axpb 758
+  231  ./axpb 3200
+  232  ./axpb 313313
+  233  ./axpb 313313313
+  234  make
+  235  wget https://launchpad.net/ubuntu/+archive/primary/+files/linux-firmware_20240318.git3b128b60-0ubuntu2.1_amd64.deb
+  236  sudo dpkg -i linux-firmware_20240318.git3b128b60-0ubuntu2.1_amd64.deb
+  237  cd Desktop/
+  238  dir
+  239  cd AUB/
+  240  dir
+  241  cd CMPS\ 224/
+  242  dir
+  243  cd Assignment\ 1/
+  244  dir
+  245  make
+  246  ./axpb 10000
+  247  ./axpb 1000000
+  248  dir
+  249  cd Desktop/
+  250  dir
+  251  cd CERN-Project/
+  252  dir
+  253  cd ..
+  254  dir
+  255  cd CERN
+  256  dir
+  257  cd pixeltrack-standalone/
+  258  dir
+  259  cd src/
+  260  dir
+  261  cd serial/
+  262  dir
+  263  cd test
+  264  dir
+  265  cd ..
+  266  code serial
+  267  dir
+  268  code Assignment 2
+  269  code Assignment\ 2
+  270  dir
+  271  cd Assignment\ 2
+  272  dir
+  273  make
+  274  dir
+  275  ./mm
+  276  make
+  277  dir
+  278  ./mm
+  279  make
+  280  ./mm\
+  281  ./mm
+  282  make
+  283  ./mm
+  284  make
+  285  ./mm
+  286  make
+  287  ./mm
+  288  make
+  289  ./mm
+  290  make
+  291  ./mm
+  292  make
+  293  ./mm
+  294  make
+  295  ./mm
+  296  make
+  297  ./mm
+  298  make
+  299  ./mm
+  300  make
+  301  ./mm
+  302  ./mm 256 512 128
+  303  ./mm 5000 7000 5000
+  304  ./mm 1000 1000 1000
+  305  ./mm 1300 1000 1200
+  306  make
+  307  ./mm 1300 1000 1200
+  308  nvidiasmi
+  309  nvidia-smi
+  310  ls
+  311  clear
+  312  di
+  313  dir
+  314  cd Desktop/
+  315  dor
+  316  dir
+  317  clear
+  318  dir
+  319  cd CERN
+  320  dor
+  321  dir
+  322  clear
+  323  cd pixeltrack-standalone/
+  324  dir
+  325  cd src
+  326  dir
+  327  dir cuda/plugin-SiPixelRawToDigi/
+  328  dir cuda/
+  329  dir
+  330  dir serial
+  331  dir serial/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cc
+  332  dir
+  333  dir cuda/plugin-SiPixelClusterizer/
+  334  meld serial/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cc cuda/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cu
+  335  cd Desktop/
+  336  dorc
+  337  ddir
+  338  dir
+  339  cd CERN
+  340  dir
+  341  cd pixeltrack-standalone/
+  342  cd src/
+  343  code CUDA
+  344  dir
+  345  code cuda
+  346  vimdiff
+  347  meld
+  348  sudo apt install meld
+  349  meld
+  350  dir
+  351  cd AUB/
+  352  dir
+  353  cd CMPS\ 224/
+  354  dir
+  355  cd Assignment\ 2
+  356  dir
+  357  cd .
+  358  cd ..
+  359  code Assignment\ 2
+  360  make
+  361  dir
+  362  cd Assignment\ 2
+  363  dir
+  364  make
+  365  ./mm
+  366  cd Desktop
+  367  dir
+  368  cd CERN
+  369  dir
+  370  cd pixeltrack-standalone/
+  371  dir
+  372  cd ..
+  373  cd .
+  374  dir
+  375  cd ..
+  376  dir
+  377  cd CERN-Julia/
+  378  dir
+  379  cd cern-julia/
+  380  dr
+  381  dir
+  382  cd CernProjectLocal/
+  383  dor
+  384  dir
+  385  cd src
+  386  dir
+  387  code GPU
+  388  cd Desktop/
+  389  dir
+  390  cd CERN
+  391  dir
+  392  cd pixeltrack-standalone/
+  393  dir
+  394  cd src/
+  395  dir
+  396  cd cuda
+  397  dir
+  398  cd Cuda
+  399  dir
+  400  cd test
+  401  dir
+  402  cd ..
+  403  code cuda
+  404  nvidia-smi
+  405  cd CERN
+  406  dor
+  407  dir
+  408  cd pixeltrack-standalone/
+  409  dor
+  410  dir
+  411  c
+  412  cd src
+  413  dir
+  414  cd serial
+  415  dir
+  416  make
+  417  source env.sh
+  418  cd ..
+  419  dor
+  420  dir
+  421  cd serial/
+  422  dor
+  423  dir
+  424  cd ..
+  425  dir
+  426  cd ..
+  427  dr
+  428  dir
+  429  make serial
+  430  vim Makefile
+  431  make serial
+  432  vim Makefile
+  433  make serial
+  434  cd CERN
+  435  dir
+  436  cd pixeltrack-standalone/
+  437  dir
+  438  cd src
+  439  dir
+  440  dir serial/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cc
+  441  dir
+  442  meld cuda/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cu serial/plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cc
+  443  dir
+  444  cd CernProjectLocal/
+  445  dir
+  446  cd ..
+  447  git pull
+  448  dir
+  449  cd CernProjectLocal/
+  450  dr
+  451  dir
+  452  cd src
+  453  dir
+  454  cd S
+  455  cd serial/
+  456  dir
+  457  cd ..
+  458  code serial
+  459  cd Desktop/
+  460  dir
+  461  cd CERN-Julia/
+  462  dir
+  463  cd cern-julia/
+  464  dir
+  465  cd CernProjectLocal/
+  466  dir
+  467  cd src/
+  468  dor
+  469  dir
+  470  cd ..
+  471  dir
+  472  cd CERN
+  473  dir
+  474  cd pixeltrack-standalone/
+  475  make serial
+  476  di
+  477  dir
+  478  cd src
+  479  dr
+  480  dir
+  481  make serial
+  482  cd ..
+  483  cd src
+  484  cd data
+  485  cd ..
+  486  dor
+  487  cd ..
+  488  dir
+  489  cd C
+  490  cd CERN
+  491  dir
+  492  code
+  493  code .
+  494  cd Des
+  495  cd Desktop/
+  496  dor
+  497  dir
+  498  cd CERN
+  499  dir
+  500  cd pixeltrack-standalone/
+  501  dir
+  502  cd src/
+  503  dir
+  504  code serial
+  505  cd ..
+  506  dir
+  507  cd ..
+  508  dir
+  509  cd CERN-Julia/
+  510  dir
+  511  cd cern-julia/
+  512  dir
+  513  cd CernProjectLocal/
+  514  dir
+  515  cd ..
+  516  dir
+  517  cd CERN-Julia
+  518  dir
+  519  cd ..
+  520  cd CERN-Julia
+  521  dir
+  522  cd cern-julia/
+  523  dir
+  524  cd CernProjectLocal/
+  525  dir
+  526  cd ..
+  527  dir
+  528  cd CERN
+  529  cd ..
+  530  dir
+  531  cd CERN
+  532  dir
+  533  cd pixeltrack-standalone/
+  534  dirc
+  535  cd CERN-Julia
+  536  dikr
+  537  dir
+  538  cd ..
+  539  cd CERN-Julia-GPU/
+  540  dir
+  541  code .
+  542  cd ..
+  543  dir
+  544  cd CERN-Julia-GPU/
+  545  dir
+  546  cd cern-julia/
+  547  dir
+  548  cd CernProjectLocal/
+  549  dir
+  550  code .
+  551  dir
+  552  cd src
+  553  dir
+  554  cd GPU
+  555  dir
+  556  code .
+  557  pwd
+  558  dir
+  559  code .
+  560  ssh -X mocharaf@lxplus.cern.ch
+  561  ssh mocharaf@lxplus.cern.ch
+  562  ssh -X mocharaf@lxplus.cern.ch
+  563  scp mocharaf@lxplus.cern.cch:/private/cern ~/Downloads/
+  564  scp mocharaf@lxplus.cern.ch ~/Downloads/
+  565  ssh -X mocharaf@lxplus.cern.ch
+  566  scp mocharaf@lxplus.cern.ch:/afs/cern.ch/user/m/mocharaf/private/cern
+  567  scp mocharaf@lxplus.cern.ch:/afs/cern.ch/user/m/mocharaf/private/cern ~/Downloads
+  568  scp -r mocharaf@lxplus.cern.ch:/afs/cern.ch/user/m/mocharaf/private/cern ~/Downloads
+  569  dir
+  570  meld CondFormats/SiPixelFedCablingMapGPU.h CondFormatscpu/SiPixelFedCablingMapGPU.h
+  571  meld CondFormats/SiPixelFedIds.h CondFormatscpu/SiPixelFedIds.h
+  572  dir CondFormats/SiPixelFedCablingMapGPU.h
+  573  meld CondFormats/SiPixelFedCablingMapGPU.h CondFormatscpu/SiPixelFedCablingMapGPU.h
+  574  meld CondFormats/SiPixelFedCablingMapGPU.cc CondFormatscpu/SiPixelFedCablingMapGPU.cc
+  575  meld CondFormats/SiPixelFedCablingMapGPU.cc CondFormatscpu/SiPixelFedCablingMapGPU.cu
+  576  meld CondFormats/SiPixelFedCablingMapGPU.cu CondFormatscpu/SiPixelFedCablingMapGPU.cc
+  577  dir
+  578  meld CondFormats/SiPixelGainCalibrationForHLTGPU.h CondFormatscpu/SiPixelGainCalibrationForHLTGPU.h
+  579  meld
+  580  cd Desktop/
+  581  cd Comparing-Clusterizer/
+  582  dir
+  583  cd ..
+  584  dir
+  585  cd Comparing-Clusterizer/
+  586  dir
+  587  cd plugin-SiPixelClusterizerc
+  588  dir
+  589  code .
+  590  cd ..
+  591  dir
+  592  cd C
+  593  cd CERN
+  594  dir
+  595  cd pixeltrack-standalone/
+  596  dir
+  597  cd data
+  598  dir
+  599  cd ..
+  600  dir
+  601  cd srcie
+  602  cd src
+  603  dir
+  604  cd serial
+  605  dir
+  606  cd ..
+  607  dir
+  608  cd cuda
+  609  dir
+  610  code .
+  611  dir
+  612  meld plugin-SiPixelClusterizerc/SiPixelRawToClusterGPUKernel.cc plugin-SiPixelClusterizer/SiPixelRawToClusterGPUKernel.cu
+  613  cd Desktop/
+  614  dr
+  615  dir
+  616  cd Comparing-Clusterizer/
+  617  dir
+  618  meld
+  619  meld CondFormats/SiPixelFedCablingMapGPUWrapper.h CondFormatscpu/SiPixelFedCablingMapGPUWrapper.h
+  620  dir
+  621  cd ..
+  622  dir
+  623  cd CERN
+  624  dir
+  625  cd pixeltrack-standalone/
+  626  dir
+  627  cd src
+  628  dir
+  629  cd cuda
+  630  dir
+  631  code .
+  632  code .
+  633  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  634  /bin/python3 /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  635  pip install
+  636  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python -m pip install
+  637  pip
+  638  .venv/bin/activate
+  639  source .venv/bin/activate
+  640  pip
+  641  pip install sklearn
+  642  pip install scikit-learn
+  643  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  644  pip install pandas
+  645  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  646  pip install librosa
+  647  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  648  pip install torch
+  649  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  650  pip install matplotlib
+  651  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  652  python
+  653  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  654  python
+  655  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  656  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  657  git clone https://github.com/MohamadKhaledCharaf/MaqamIdentification.git
+  658  cd ..
+  659  dir
+  660  cd CERN
+  661  dir
+  662  cd pixeltrack-standalone/
+  663  dir
+  664  cd src
+  665  dor
+  666  dir
+  667  cd cuda
+  668  dir
+  669  cd ..
+  670  code cuda
+  671  code . 
+  672  code .
+  673  pwd
+  674  dir
+  675  dir Ou
+  676  ls Ou
+  677  ls
+  678  listdir
+  679  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  680  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  681  cd Desktop/
+  682  dir
+  683  cd Maqam-Identification/
+  684  dir
+  685  cd MaqamIdentification/
+  686  dir
+  687  code .
+  688  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  689  pip install pandas
+  690  sudo apt install python3-pip
+  691  pip install pandas
+  692  py
+  693  python
+  694  python3
+  695  python3 -m venv venv
+  696  apt install python3.12-venv
+  697  sudo apt install python3.12-venv
+  698  python3 -m venv venv
+  699  venv/bin/activate\
+  700  venv\bin\activate
+  701  venv/bin/activate
+  702  sudo venv/bin/activate\
+  703  sudo venv/bin/activate
+  704  source venv/bin/activate
+  705  pip install pandas
+  706  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  707  pip install pandas
+  708  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  709  pip install pandas
+  710  python3 testing.py 
+  711  pip install matplotlib
+  712  python3 testing.py 
+  713  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  714  python3 testing.py 
+  715  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  716  /bin/python3 /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  717  cd Desktop/
+  718  dir
+  719  cd data
+  720  dir
+  721  code .
+  722  pip -m venv venv
+  723  python -m venv venv
+  724  python3 -m venv venv
+  725  source venv/scripts/activate
+  726  dir
+  727  source venv/scripts/activate
+  728  source venv/bin/activate
+  729  pip install OpenCV
+  730  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python -m pip install OpenCV
+  731  exit
+  732  /home/mohamad-khaled-charaf/Desktop/data/venv/bin/python /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  733  sudo apt install python3-tk  # Linux
+  734  /home/mohamad-khaled-charaf/Desktop/data/venv/bin/python /home/mohamad-khaled-charaf/Desktop/data/testing.py
+  735  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  736  cd Desktop/
+  737  cd data
+  738  code .
+  739  cd Desktop
+  740  dir
+  741  mkdir DDM-Assignment1
+  742  cd DDM-Assignment1/
+  743  dir
+  744  code .
+  745  cd ..
+  746  dir
+  747  cd hw1_files_25/
+  748  dir
+  749  cd ..
+  750  dir
+  751  cd DDM-Assignment1/
+  752  cp hw1_files_25/ .
+  753  cp ..hw1_files_25/ .
+  754  cp ../hw1_files_25/ .
+  755  cp -r ../hw1_files_25/ .
+  756  dir
+  757  cd hw1_files_25/
+  758  dir
+  759  cd .
+  760  cd ..
+  761  code
+  762  code .
+  763  traceroute
+  764  sudo apt install traceroute
+  765  raceroute aub.edu.lb
+  766  traceroute aub.edu.lb
+  767  deactivate
+  768  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/main.py
+  769  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  770  pip install pandas
+  771  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  772  pip install sklearn
+  773  pip install scikit-learn
+  774  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  775  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  776  source .venv/bin/activate
+  777  pip install OpenCV
+  778  pip install cv2
+  779  pip install opencv-python opencv-contrib-python
+  780  pip install matplotlib
+  781  /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/Maqam-Identification/MaqamIdentification/main.py
+  782  cd Desktop/
+  783  dor
+  784  dir
+  785  cd data/
+  786  dir
+  787  cd ..
+  788  cd DDM-Assignment1/
+  789  dir
+  790  cd hw1_files_25/
+  791  dor
+  792  dir
+  793  cd files/
+  794  dir
+  795  cd ..
+  796  doir
+  797  cd ..
+  798  dir
+  799  vim p2_x.txt
+  800  vim p2_y.txt
+  801  vim p2_x.txt
+  802  dir
+  803  mkdir data_for_problem-4
+  804  cd data_for_problem-4/
+  805  cp ../p2_x.txt .
+  806  cp ../p2_y.txt .
+  807  dir
+  808  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  809  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  810  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  811  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  812  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  813  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  814  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  815  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  816  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem5.py
+  817  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  818  cd Desktop/
+  819  dir
+  820  cd DDM-Assignment1/
+  821  dir
+  822  code .
+  823  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem1.py
+  824  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem5.py
+  825  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  826  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem5.py
+  827  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python
+  828  dir
+  829  cd Desktop/
+  830  dor
+  831  dir
+  832  cd DDM-Assignment1/
+  833  code .
+  834  dir
+  835  cd ..
+  836  dir
+  837  cd InmindAssignments/
+  838  dir
+  839  git branch
+  840  git checkout main
+  841  dir
+  842  git checkout feature/contact 
+  843  dir
+  844  git checkout main
+  845  dir
+  846  git checkout feature/contact 
+  847  cd Desktop
+  848  mkdir inMindAssignment1
+  849  cd inMindAssignment1/
+  850  git init
+  851  cd ..
+  852  dir
+  853  rm inMindAssignment1/
+  854  mkdir git-assignment
+  855  cd git-assignment/
+  856  git config --global
+  857  git config 
+  858  git config --glober user
+  859  git config 
+  860  git config user
+  861  git config
+  862  git config --global user.email
+  863  git config --global user.email=khaledsharaf03@gmail.com
+  864  git config --global user.email
+  865  git config --global user.email khaledsharaf03@gmail.com
+  866  git config user
+  867  git config --global user.email 
+  868  git config --global user.username MohamadKhaledCharaf
+  869  git config --global user.username
+  870  git config --global user
+  871  git config --global user.username user.email
+  872  git config --global user.username 
+  873  git config --global user.username MohamadKhaledCharaf
+  874  git config --global user.username 
+  875  git config --global user.email
+  876  git config --global user.username 
+  877  dir
+  878  cd ..
+  879  rm git-assignment/
+  880  rm -r  git-assignment/
+  881  dir
+  882  clear
+  883  mkdir git-assignment
+  884  cd git-assignment/
+  885  git config --global user.username MohamadKhaledCharaf
+  886  git config --global user.email khaledsharaf03@gmail.com
+  887  git init
+  888  git clone https://github.com/MohamadKhaledCharaf/git-assignment.git
+  889  touch README.md
+  890  echo "File for learning and testing git" > README.md
+  891  git add README.md
+  892  git commit -m "Pushing readme file"
+  893  git push origin main
+  894  git push .
+  895  git push origin master
+  896  dir
+  897  cclear
+  898  clear
+  899  cd ..
+  900  rm -r git-assignment
+  901  mkdir InmindAssignments
+  902  cd InmindAssignments/
+  903  git config --global user.username MohamadKhaledCharaf
+  904  git config --global user.email khaledsharaf03@gmail.com
+  905  clear
+  906  cd ..
+  907  rm -r InmindAssignments/
+  908  clear
+  909  mkdir gitAssignments
+  910  clarclear
+  911  clear
+  912  rm -r gitAssignments
+  913  clear
+  914  mkdir gitAssignments
+  915  clear
+  916  rm -r gitAssignments/
+  917  clear
+  918  mkdir InmindAssignments
+  919  cd InmindAssignments/
+  920  git config --global user.username MohamadKhaledCharaf
+  921  git config --global user.email khaledsharaf03@gmail.com
+  922  git init
+  923  clear
+  924  cd ..
+  925  rm -r  InmindAssignments/
+  926  clear
+  927  mkdir InmindAssignments
+  928  cd InmindAssignments/
+  929  git init
+  930  touch README.md
+  931  echo "File for learning and testing git" > README.md
+  932  git remote add origin https://github.com/MohamadKhaledCharaf/git-assignment.git
+  933  git add README.md
+  934  git commit -m "Pushing README file"
+  935  git push -u origin main
+  936  git branch -M main
+  937  git push -u origin main
+  938  git status
+  939  git branch feature/about
+  940  git checkout feature/about
+  941  touch about.txt
+  942  echo "Git is a distributed version control system. It allows multiple developers to work on a project without requiring constant connection to a central repository."
+  943  echo "Git is a distributed version control system. It allows multiple developers to work on a project without requiring constant connection to a central repository." > about.txt
+  944  cat about.txt
+  945  git commit -m "Adding about.txt"
+  946  clear
+  947  git add about.txt
+  948  git commit -m "Adding about.txt"
+  949  git branch
+  950  git push origin feature/about
+  951  git checkout main
+  952  git branch feature/contact
+  953  git checkout feature/contact
+  954  touch contact.txt
+  955  echo "For more information, visit our Github Page or contact our support team" > contact.txt
+  956  git add contact.txt
+  957  git commit -m "Adding contact.txt"
+  958  git checkout feature/about 
+  959  echo "This project is an exercise in mastering Git functionalities." >> README.md
+  960  cat README.md 
+  961  git commit -m "Modify README.md"
+  962  git add README.md 
+  963  git commit -m "Modify README.md"
+  964  git checkout feature/contact 
+  965  echo "This project serves as a practical exercise to understand Git operations" >> README.md
+  966  cat README.md 
+  967  git add README.md 
+  968  git commit -m "Modify README.md"
+  969  git checkout main
+  970  git merge feature/about
+  971  git push origin main
+  972  git merge feature/contact
+  973  cat README.md 
+  974  vim README.md
+  975  git commit -m "Resolve merge conflict in README.md"
+  976  vim README.md 
+  977  git add README.md 
+  978  git commit -m "Resolve merge conflict in README.md"
+  979  git push origin main
+  980  git checkout feature/contact 
+  981  git push origin feature/contact
+  982  git branch
+  983  git checkout feature/about 
+  984  git branch
+  985  touch pullRequest.txt
+  986  git add pullRequest.txt 
+  987  git commit -m "Add empty txt file to illustrate pull request"
+  988  git push origin featureabout
+  989  git push origin feature/about
+  990  git
+  991  cd Desktop/
+  992  dir
+  993  cd Grad\ Applications/
+  994  dir
+  995  ls | grep *.txt
+  996  cat Stanford\ CME\ Deadline\ 01312025\ 1159.txt 
+  997  /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/.venv/bin/python /home/mohamad-khaled-charaf/Desktop/DDM-Assignment1/problem5.py
+  998  /bin/python3 /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/mohamad-khaled-charaf/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+  999  man df
+ 1000  df -h
+ 1001  cd Desktop/
+ 1002  df -h
+ 1003  du
+ 1004  dir
+ 1005  cd AUB/
+ 1006  dir
+ 1007  du
+ 1008  dir
+ 1009  cd ..
+ 1010  dir
+ 1011  cd inMindAssignments
+ 1012  cd inmindAssignments
+ 1013  dir
+ 1014  cd inmindAssignments
+ 1015  cd InmindAssignments/
+ 1016  dir
+ 1017  cd ..
+ 1018  mkdir inmindAssignment2
+ 1019  cd inmindAssignment2/
+ 1020  git init
+ 1021  git remote add origin https://github.com/MohamadKhaledCharaf/robotics-assignment-2.git
+ 1022  git push origin master
+ 1023  echo "# robotics-assignment-2" >> README.md
+ 1024  git add README.md
+ 1025  git branch -M main
+ 1026  git remote add origin https://github.com/MohamadKhaledCharaf/robotics-assignment-2.git
+ 1027  git push origin main
+ 1028  git push -u origin main
+ 1029  git config --global user
+ 1030  git config --global user.name
+ 1031  git config --global user.name MohamadKhaledCharaf
+ 1032  git config --global user.email khaledsharaf03@gmail.com
+ 1033  git push origin main
+ 1034  git remote add origin https://github.com/MohamadKhaledCharaf/robotics-assignment-2.git
+ 1035  dir
+ 1036  git init
+ 1037  git add README.md
+ 1038  git push origin main
+ 1039  git branch
+ 1040  git branch -M main
+ 1041  git branch
+ 1042  echo "# robotics-assignment-2" >> README.md
+ 1043  git init
+ 1044  git add README.md
+ 1045  git commit -m "first commit"
+ 1046  git branch -M main
+ 1047  git remote add origin https://github.com/MohamadKhaledCharaf/robotics-assignment-2.git
+ 1048  git push -u origin main
+ 1049  clear
+ 1050  dir
+ 1051  rm README.md 
+ 1052  git commit -a
+ 1053  git push origin main
+ 1054  mkdir workspace/{docs,logs,data,scripts}
+ 1055  clear
+ 1056  mkdir -p workspace/{docs,logs,data,scripts}
+ 1057  ls
+ 1058  ls workspace
+ 1059  cd workspace/
+ 1060  dir
+ 1061  cd docs/
+ 1062  touch cd.txt ls.txt 
+ 1063  nano cd.txt
+ 1064  nano ls.txt
+ 1065  echo "Welcome to the Second Robotics Assignment" >> welcome.txt
+ 1066  touch touchInfo1.txt touchInfo2.txt
+ 1067  echo "you can use touch to create multiple files at Once such as: touch file1.txt file2.txt file3.txt" > touchInfo1.txt
+ 1068  echo "you can also update file timestamps without modifying Contenct by running filename.txt" > touchInfo2.txt
+ 1069  cat touchInfo1.txt touchInfo2.txt > SummaryTouch.txt
+ 1070  cat SummaryTouch.txt
+ 1071  head SummaryTouch.txt 
+ 1072  vim SummaryTouch.txt 
+ 1073  nano SummaryTouch.txt 
+ 1074  git add .
+ 1075  git commit -a
+ 1076  git push origin main
+ 1077  dir
+ 1078  nano SummaryTouch.txt 
+ 1079  git add SummaryTouch.txt 
+ 1080  git commit -a
+ 1081  git push origin main
+ 1082  head SummaryTouch.txt 
+ 1083  man head\
+ 1084  man head
+ 1085  man tail
+ 1086  dir
+ 1087  vim SummaryTouch.txt 
+ 1088  git add SummaryTouch.txt 
+ 1089  git commit -a
+ 1090  git push origin main
+ 1091  head SummaryTouch.txt 
+ 1092  tail SummaryTouch.txt 
+ 1093  cd ..
+ 1094  cat docs/SummaryTouch.txt | grep head | cat > logs/search_results.txt
+ 1095  cat logs/search_results.txt 
+ 1096  dir
+ 1097  head docs/SummaryTouch.txt 
+ 1098  head 2 docs/SummaryTouch.txt 
+ 1099  man head
+ 1100  head -n 2 
+ 1101  head -n 2 docs/SummaryTouch.txt 
+ 1102  head -n 2 docs/SummaryTouch.txt | cat > "SummaryForOnlyTouch.txt"
+ 1103  cat SummaryForOnlyTouch.txt 
+ 1104  mv SummaryForOnlyTouch.txt docs/
+ 1105  dir docs/
+ 1106  dir
+ 1107  cd docs/
+ 1108  dir
+ 1109  cd ..
+ 1110  git add .
+ 1111  git commit -a
+ 1112  git push origin main
+ 1113  dir
+ 1114  cd docs/
+ 1115  dir
+ 1116  cat welcome.txt 
+ 1117  cd ..
+ 1118  mv docs/welcome.txt .
+ 1119  dir
+ 1120  git add .
+ 1121  git commit -a
+ 1122  git push origin main
+ 1123  dir
+ 1124  cp welcome.txt 
+ 1125  cp welcome.txt logs/
+ 1126  cd logs/
+ 1127  echo "Here, your search queries of the functionalities will reside" >> welcome.txt
+ 1128  cat welcome.txt 
+ 1129  cd ..
+ 1130  git add .
+ 1131  git commit -a
+ 1132  git push origin main
+ 1133  dir
+ 1134  chmod 700 scripts
+ 1135  ls -l scripts
+ 1136  ls -l 
+ 1137  chmod 100 scripts
+ 1138  ls -l 
+ 1139  chmod 700 scripts
+ 1140  ls -l 
+ 1141  dir
+ 1142  man chown
+ 1143  sudo man chown
+ 1144  history
+ 1145  chown -R student:project data
+ 1146  sudo chown -R student:project data
+ 1147  cat /etc/passwd | grep student
+ 1148  useradd -m student
+ 1149  cat /etc/passwd
+ 1150  who
+ 1151  chmod 700 scripts
+ 1152  where is ls
+ 1153  whereis ls
+ 1154  whatis cuda
+ 1155  whereis cuda
+ 1156  groupadd potato
+ 1157  sudo groupadd potato
+ 1158  cat /etc/group
+ 1159  sudo usermod -aG potato mohamad-khaled-charaf
+ 1160  sudo chown -R mohamad-khaled-charaf:potato data
+ 1161  ls -ld data
+ 1162  chmod 700 scripts
+ 1163  ls -l
+ 1164  git stauts
+ 1165  git status
+ 1166  clear
+ 1167  df -h
+ 1168  du
+ 1169  clear
+ 1170  ifconfig
+ 1171  sudo apt install net-tools
+ 1172  clear
+ 1173  ifconfig
+ 1174  ifconfig | grep physical
+ 1175  clear
+ 1176  ifconfig
+ 1177  ping
+ 1178  git status
+ 1179  ping google.com
+ 1180  clear
+ 1181  ifconfig
+ 1182  ping -c 3 google.com
+ 1183  dir
+ 1184  cd scripts/
+ 1185  touch scripts.sh
+ 1186  dir
+ 1187  nano scripts.sh 
+ 1188  man mkdir
+ 1189  nano scripts.sh 
+ 1190  history
+ 1191  cd ..
+ 1192  history | cat > history.txt
