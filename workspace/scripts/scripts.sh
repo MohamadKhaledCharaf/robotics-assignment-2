@@ -141,9 +141,8 @@ else
     echo "Creating user '$USER' and adding to group '$GROUP'..."
     useradd -m -g "$GROUP" -s /bin/bash "$USER"
 fi
-
-
-
+chown -R "$USER":"$GROUP" "$DATA_DIR"
+echo "Updated data directory to student: "$USER" and GROUP "$GROUP""
 # -----------------------------
 # 5. Display the Final Directory Structure
 # -----------------------------
